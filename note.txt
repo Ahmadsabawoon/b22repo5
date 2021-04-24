@@ -20,3 +20,6 @@ How to save after adding some text in subline
 On mca command + S
 on windows Control + S
 Or Click in file --> save 
+
+
+we do not have to push one commit at a time 
