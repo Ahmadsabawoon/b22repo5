@@ -15,3 +15,8 @@ now our work will continue locally
 remote repository so we pushed local commits to remote repository using push origin button 
 4. observe it has been added in your repository
 under Github.com
+
+How to save after adding some text in subline
+On mca command + S
+on windows Control + S
+Or Click in file --> save 
