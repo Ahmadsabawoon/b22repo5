@@ -5,3 +5,13 @@ few things happened:
 under your Github.com account
 2. made the connection with your local git repo
 3.added all your commits to remote repo
+
+
+now our work will continue locally
+
+1. add a new file not.txt
+2. commited the change to lical repo
+3. we want this change to be reflected int 
+remote repository so we pushed local commits to remote repository using push origin button 
+4. observe it has been added in your repository
+under Github.com
